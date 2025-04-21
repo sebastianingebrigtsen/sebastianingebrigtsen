@@ -14,15 +14,7 @@
 
 ###
 
-<h4 align="left">👨🏼‍💻  Om meg</h4>
-
-###
-
-<p align="left">👋 1. års informatikstudent ved NTNU. Interessert i webutvikling og programvare. <br>🌱 Lærer kontinuerlig nye teknologier og ser frem til samarbeid!</p>
-
-###
-
-<h4 align="left">🛠 Mine verktøy</h4>
+<h3 align="left">🛠 Mine verktøy</h3>
 
 ###
 
@@ -52,7 +44,7 @@
 
 ###
 
-<h4 align="left">🔥   Min statistikk :</h4>
+<h3 align="left">🔥   Min statistikk :</h3>
 
 ###
 

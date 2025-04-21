@@ -1,20 +1,14 @@
-<br clear="both">
-
 <div align="center">
-  <img height="100" src="https://media4.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif?cid=6c09b95234sl4d1c4kmzgrv4qfh5i2owp53tvlvo8xr2l2i7&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s"  />
+  <img height="150" src="https://media4.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif?cid=6c09b95234sl4d1c4kmzgrv4qfh5i2owp53tvlvo8xr2l2i7&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s"  />
 </div>
 
 ###
-
-<br clear="both">
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=sebastianingebrigtsen.sebastianingebrigtsen&"  />
 </div>
 
 ###
-
-<br clear="both">
 
 <h1 align="center">Hei, Sebastian her 👋</h1>
 

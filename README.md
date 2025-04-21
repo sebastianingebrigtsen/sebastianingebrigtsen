@@ -1,8 +1,12 @@
+<br clear="both">
+
 <div align="center">
-  <img height="150" src="https://media4.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif?cid=6c09b95234sl4d1c4kmzgrv4qfh5i2owp53tvlvo8xr2l2i7&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s"  />
+  <img height="100" src="https://media4.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif?cid=6c09b95234sl4d1c4kmzgrv4qfh5i2owp53tvlvo8xr2l2i7&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s"  />
 </div>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=sebastianingebrigtsen.sebastianingebrigtsen&"  />
@@ -10,11 +14,13 @@
 
 ###
 
+<br clear="both">
+
 <h1 align="center">Hei, Sebastian her 👋</h1>
 
 ###
 
-<h3 align="left">👨🏼‍💻  Om meg</h3>
+<h4 align="left">👨🏼‍💻  Om meg</h4>
 
 ###
 
@@ -22,7 +28,7 @@
 
 ###
 
-<h3 align="left">🛠 Mine verktøy</h3>
+<h4 align="left">🛠 Mine verktøy</h4>
 
 ###
 
@@ -37,9 +43,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
   <img width="12" />
@@ -50,7 +58,7 @@
 
 ###
 
-<h3 align="left">🔥   Min statistikk :</h3>
+<h4 align="left">🔥   Min statistikk :</h4>
 
 ###
 
